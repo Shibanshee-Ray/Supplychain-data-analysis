@@ -23,16 +23,16 @@ Before running the project, ensure that you have the following installed:
 - Seaborn
 - scikit-learn (if applicable)
 
-##Dataset
+## Dataset
 The dataset used in this project comes from Kaggle and can be found here<https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis>. It contains real-world data related to supply chain operations, including metrics such as:
 
-*Inventory levels
-*Order processing times
-*Supplier information
-*Shipment and delivery time
+* Inventory levels
+* Order processing times
+* Supplier information
+* Shipment and delivery time
 
-##Future Enhancements
+## Future Enhancements
 
-*Machine Learning Integration: Adding predictive models to forecast demand and optimize stock levels.
-*Advanced Visualization: Incorporating interactive plots to explore data more effectively.
-*Dashboard Integration: Build a web-based dashboard to display key supply chain metrics in real-time.
+* Machine Learning Integration: Adding predictive models to forecast demand and optimize stock levels.
+* Advanced Visualization: Incorporating interactive plots to explore data more effectively.
+* Dashboard Integration: Build a web-based dashboard to display key supply chain metrics in real-time.
